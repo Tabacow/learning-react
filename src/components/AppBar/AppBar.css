@@ -1,0 +1,7 @@
+.AppBar {
+    background-color: rgba(3, 76, 211, 0.75) ;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 4px 4px 4px 4px rgb(128, 128, 128, 0.6);
+    margin-bottom: 16px;
+}
